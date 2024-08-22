@@ -13,7 +13,7 @@ npm install vuex@next
 npm install axios
 npm install @fortawesome/vue-fontawesome @fortawesome/free-solid-svg-icons @fortawesome/fontawesome-svg-core
 npm run serve
-
+```bash
   
 **para subir el pry del BE "todolist_grp4/qrks-todolist-grp4"**
 ./mvnw clean install quarkus:dev -DskipTests
