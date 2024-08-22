@@ -16,6 +16,8 @@ Las Apps no están dockerizadas, solo la Base de Datos
 
 2. **Para subir el proyecto del Backend "todolist_grp4/qrks-todolist-grp4":**
     ```bash
+    ./mvnw quarkus:dev -DskipTests
+    o
     ./mvnw clean install quarkus:dev -DskipTests
     ```
 
