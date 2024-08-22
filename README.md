@@ -6,7 +6,7 @@ Las Apps no están dockerizadas, solo la Base de Datos
     npm -v
     npm install -g npm@latest
     npm install -g @vue/cli
-    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+    En un cmd (Win) ejecutar esta línea: Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
     npm install vue-router
     npm install vuex@next
     npm install axios
