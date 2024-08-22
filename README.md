@@ -15,5 +15,8 @@ npm install @fortawesome/vue-fontawesome @fortawesome/free-solid-svg-icons @fort
 npm run serve
 
   
--- para subir el pry del BE "todolist_grp4/qrks-todolist-grp4"
+**para subir el pry del BE "todolist_grp4/qrks-todolist-grp4"**
 ./mvnw clean install quarkus:dev -DskipTests
+
+**para subir la Base de Datos, levantar el docker compose**
+todolist_grp4/docker-compose.yml
